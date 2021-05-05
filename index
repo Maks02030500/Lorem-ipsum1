@@ -1,0 +1,37 @@
+<html lang="en"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>My site</title>
+</head>
+<body>
+	<header>
+		<h1>Main Header – Name of site</h1>
+		<h2> Sub header – Topic of site </h2>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="info.html">About</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="form.html">Contacts</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<!-- First -->
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque, erat ut fermentum tincidunt, est nibh facilisis nibh, viverra accumsan erat lacus ut nisi. Donec odio sapien, tincidunt id leo vitae, bibendum feugiat turpis. Vestibulum sollicitudin non enim a malesuada. Pellentesque at viverra magna. Ut sit amet lacus sit amet orci vulputate dictum ac eu enim. Nam eleifend congue dictum. Sed lacinia arcu consectetur, tincidunt nisi ac, convallis leo. Nullam finibus, odio a placerat molestie, enim augue congue odio, a tristique ex eros at leo. Etiam id ante sed quam mattis euismod vel sed orci. Pellentesque at convallis libero. Duis vel libero augue. Vestibulum interdum malesuada erat, ut tempor libero finibus vel.</p>
+		<!-- Second -->
+		<p>Nam id quam id elit malesuada tristique. Quisque accumsan ullamcorper posuere. Praesent volutpat lacus non nunc ultricies vehicula. Curabitur eu arcu diam. Suspendisse volutpat, odio nec lacinia pretium, leo quam fermentum justo, nec elementum nisl magna vel leo. Ut ex sapien, condimentum a urna vitae, elementum feugiat dolor. Suspendisse a lacus eget massa varius porta. Nunc nisl sem, maximus laoreet vestibulum non, porttitor non neque. Etiam pellentesque semper iaculis.</p>
+		<!-- Three -->
+		<p>Cras quis maximus mi. Proin commodo bibendum lectus commodo tempus. Sed hendrerit ultrices ipsum, quis euismod urna imperdiet eu. Cras eget eros justo. Pellentesque ornare consequat lectus, non finibus justo bibendum ut. Fusce sed nisi pharetra, ornare elit non, facilisis eros. Vestibulum sodales consectetur nunc vel malesuada. Aenean ut tortor eget leo sodales tempor tempus ut sapien. Nulla sed viverra turpis, ut volutpat metus.</p>
+	</main>
+
+	<footer>
+		<p>Copyright 2019</p>
+	</footer>
+
+
+
+
+<div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div><div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div></body></html>
