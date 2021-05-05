@@ -1,0 +1,40 @@
+<html lang="en"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>My site</title>
+</head>
+<body>
+	<header>
+		<h1>Main Header – Name of site</h1>
+		<h2> Sub header – Topic of site </h2>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="info.html">About</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="form.html">Contacts</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas malesuada ex, tincidunt iaculis lorem vulputate vel. Integer porttitor porttitor libero, eget pulvinar ligula elementum convallis. In hac habitasse platea dictumst. Nam ultrices eleifend tempus. In orci ex, iaculis eu pellentesque nec, posuere id ligula. In vel sodales urna. Nulla venenatis arcu eu tortor rutrum, vel laoreet ligula finibus. Donec commodo feugiat quam in pretium. Aenean commodo urna nec maximus consequat. Suspendisse ut molestie lectus, ac semper tellus. Cras ac orci molestie, dignissim leo sed, molestie leo. Aliquam ultrices non metus at varius. Ut aliquam nec velit ut semper. Aenean ultrices consequat ultrices. Fusce sed suscipit nibh. Donec egestas felis quis diam mattis porttitor.</p>
+
+		<p>Aenean a lacinia lacus, vel eleifend nunc. Integer vel gravida leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris ut fermentum est. Nam placerat imperdiet ante vitae semper. Maecenas eget placerat lectus, at iaculis orci. Sed molestie suscipit mattis. Donec at sodales lacus. Praesent quis consectetur dolor. Curabitur a suscipit neque, sed sodales justo. Praesent a massa nibh. Suspendisse potenti. Nulla fermentum sodales purus, sed placerat est gravida eget. Etiam eu cursus dui, ut tempor dolor. Aliquam vel elementum lacus. Vivamus neque orci, tincidunt nec nisl ac, dictum consequat libero.</p>
+
+		<p>Donec euismod euismod neque pulvinar iaculis. Ut non hendrerit neque. Suspendisse commodo nibh libero. Curabitur aliquet, diam ac posuere pulvinar, massa nisl maximus felis, ut molestie leo nisi ut nisl. Vivamus vitae velit sit amet est sollicitudin pretium. Aliquam erat volutpat. Etiam tempor luctus ipsum ut scelerisque. Morbi bibendum diam sit amet purus auctor, eu cursus ex semper. Etiam quis turpis mi. Nunc a vestibulum est. Sed pulvinar leo turpis, eget laoreet elit commodo sit amet. Aenean rutrum accumsan est sed rhoncus. Quisque ullamcorper, dui ut mattis egestas, metus ipsum feugiat ex, dignissim tincidunt velit tellus in urna. Suspendisse malesuada, ligula ac malesuada pellentesque, quam purus rutrum ipsum, ut blandit felis diam hendrerit velit. Ut consequat vulputate lacus.</p>
+
+		<p>Donec nisl ligula, tristique ac neque lobortis, fermentum porttitor felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi a quam dictum, suscipit ligula eget, ultrices metus. Aenean rhoncus commodo neque, sed sodales quam scelerisque id. Etiam mattis tortor a lorem vehicula, ut dapibus lectus molestie. Proin accumsan molestie magna. Ut euismod in est et egestas. Suspendisse potenti. Curabitur felis urna, sodales vel odio at, tempor euismod purus. Nam egestas massa ac sapien accumsan placerat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc nec eleifend felis.</p>
+
+		<p>Ut pulvinar lorem eget mauris auctor blandit. Cras lobortis sit amet velit eu blandit. Etiam eu mauris vulputate, tincidunt enim ac, dignissim nibh. Fusce cursus ante risus, eu facilisis lectus scelerisque ac. Pellentesque vitae semper libero. Pellentesque consequat ex leo, ac volutpat mi faucibus a. Donec euismod dolor arcu, ac luctus neque fringilla in. Curabitur luctus a sem et vestibulum. Donec pulvinar metus ac ipsum pulvinar, sit amet venenatis nunc ullamcorper. Integer tincidunt lobortis lectus in faucibus.</p>
+	</main>
+
+	<footer>
+		<p>Copyright 2019</p>
+	</footer>
+
+
+
+
+<div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div><div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div></body></html>
