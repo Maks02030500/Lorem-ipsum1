@@ -1,0 +1,32 @@
+<html lang="en"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<title>My site</title>
+</head>
+<body>
+	<header>
+		<h1>Main Header – Name of site</h1>
+		<h2>Sub header – Topic of site </h2>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="info.html">About</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="form.html">Contacts</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas malesuada ex, tincidunt iaculis lorem vulputate vel. Integer porttitor porttitor libero, eget pulvinar ligula elementum convallis. In hac habitasse platea dictumst. Nam ultrices eleifend tempus. In orci ex, iaculis eu pellentesque nec, posuere id ligula. In vel sodales urna. Nulla venenatis arcu eu tortor rutrum, vel laoreet ligula finibus. Donec commodo feugiat quam in pretium. Aenean commodo urna nec maximus consequat. Suspendisse ut molestie lectus, ac semper tellus. Cras ac orci molestie, dignissim leo sed, molestie leo. Aliquam ultrices non metus at varius. Ut aliquam nec velit ut semper. Aenean ultrices consequat ultrices. Fusce sed suscipit nibh. Donec egestas felis quis diam mattis porttitor.</p>
+	</main>
+
+	<footer>
+		<p>Copyright 2019</p>
+	</footer>
+
+
+
+
+<div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div><div class="mallbery-caa" style="z-index: 2147483647 !important; text-transform: none !important; position: fixed;"></div></body></html>
